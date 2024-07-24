@@ -1,0 +1,5 @@
+stats- https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2017/home
+
+python- https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=e95d2ecf884b9919e4ae3630e75009f4&position=3&linked_from=autocomplete&c=autocomplete
+
+dl-ml https://www.edx.org/certificates/professional-certificate/harvardx-python-for-data-science-and-machine-learning?index=product&queryID=7b429f2d8fd7b085aa467385ff86a3bb&position=9&results_level=second-level-results&term=cs50&objectID=program-fa8bacde-cdf0-4d76-a4a0-b2624abe3800&campaign=Python+for+Data+Science+and+Machine+Learning&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
